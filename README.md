@@ -14,7 +14,6 @@ Here are some manual and real datasets
 if your source dataset is :
 ```
 source_dataset
-```
 dataset
 ├── data-1.csv
 ├── data_2.csv

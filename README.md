@@ -15,7 +15,7 @@ if your source dataset is :
 ```
 source_dataset
 dataset
-├── data-1.csv
+├── data_1.csv
 ├── data_2.csv
 ├── data_3.csv
 └── ...

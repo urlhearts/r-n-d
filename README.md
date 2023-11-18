@@ -1,7 +1,7 @@
 # RND(Unsupervised Outlier Detection with Reinforced Noise Discriminat)
 
 ## Notes
-We are planning a major update to the code in the near future, so if you have any suggestions, please feel free to email [ldh1594683@163.com](ldh1594683@163.com) or mention them in the issue.
+We are planning a major update to the code in the near future, so if you have any suggestions, please feel free to email [ME](ldh1594683@163.com) or mention them in the issue.
 
 ## Requirements
 * pytorch1.7
@@ -28,7 +28,7 @@ python RND.py
 ```
 
 ## By The Way
-This project is not perfect and there are still many problems. If you are using this project and would like to give the author some feedbacks, you can send [ldh1594683@163.com](ldh1594683@163.com) an email.
+This project is not perfect and there are still many problems. If you are using this project and would like to give the author some feedbacks, you can send [ME](ldh1594683@163.com) an email.
 
 ## Related works
 If this code is helpful for you, you can cite these for us. Thank you.

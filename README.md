@@ -34,7 +34,8 @@ This project is not perfect and there are still many problems. If you are using 
 If this code is helpful for you, you can cite these for us. Thank you.
 ```
 
-![loss_auc.png](https://github.com/urlhearts/r-n-d/assets/94271294/9da6200b-5a34-4b2e-a423-f44393a88af2)
+## Result
+![](loss_auc.png)
 
 
 [1] Liu Y , Li Z , Zhou C , et al. "Generative Adversarial Active Learning for Unsupervised Outlier Detection", arXiv:1809.10816, 2018.

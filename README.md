@@ -34,7 +34,7 @@ This project is not perfect and there are still many problems. If you are using 
 ![](loss_auc.png)
 
 ## Related works
-If this code is helpful for you, you can cite these for us. Thank you.
+If this code is helpful for you, please help us click on star. Thank you.
 ```
 
 [1] Liu Y , Li Z , Zhou C , et al. "Generative Adversarial Active Learning for Unsupervised Outlier Detection", arXiv:1809.10816, 2018.

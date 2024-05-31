@@ -1,4 +1,4 @@
-# RND(Unsupervised Outlier Detection with Reinforced Noise Discriminat)
+# RND(Unsupervised Outlier Detection with Reinforced Noise Discriminator)
 
 ## Notes
 We are planning a major update to the code in the near future, so if you have any suggestions, please feel free to email [ME](ldh1594683@163.com) or mention them in the issue.
